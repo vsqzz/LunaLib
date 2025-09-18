@@ -1,5 +1,3 @@
-]]
-
 local Release = "Prerelease Beta 6.1"
 
 local Luna = { 
